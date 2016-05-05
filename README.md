@@ -6,11 +6,11 @@
  ___) | | | | | | | |_) | |  __/| || | | | | | (_| | (_| |  __/ |__| (_| | |_) | |_| |_| | | |  __/
 |____/|_|_| |_| |_| .__/|_|\___|___|_| |_| |_|\__,_|\__, |\___|\____\__,_| .__/ \__|\__,_|_|  \___|
                   |_|                               |___/                |_|                       
+
+A simple Python app to capture your photos
  ```
 
-## Dependencias
-- Python 2.7.11
+## Dependencies
+- Python 2.7
 - OpenCV
-- GTK+3
-- Cairo
-- PyGObject
+- PyQT
