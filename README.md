@@ -17,4 +17,4 @@ A simple Python app to capture your photos
 
 ## Code example
 
-See [main.py](../blob/master/main.py)
+See [main.py](../master/main.py)
