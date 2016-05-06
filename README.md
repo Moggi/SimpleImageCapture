@@ -17,4 +17,4 @@ A simple Python app to capture your photos
 
 ## Code example
 
-See [main.py](https://github.com/Moggi/SimpleImageCapture/blob/master/main.py)
+See [main.py](../blob/master/main.py)
