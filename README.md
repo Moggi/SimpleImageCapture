@@ -10,7 +10,11 @@
 A simple Python app to capture your photos
  ```
 
-## Dependencies
+## Requirements
 - Python 2.7
 - OpenCV
 - PyQT
+
+## Code example
+
+See [main.py](https://github.com/Moggi/SimpleImageCapture/blob/master/main.py)
