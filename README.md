@@ -18,3 +18,17 @@ A simple Python app to capture your photos
 ## Code example
 
 See [main.py](../master/main.py)
+
+
+## ROADMAP
+- Update the WindowWidget class structure
+- In WindowWidget:
+ - Remove the CameraWidget from it
+ - Reorganize the widgets positions (layout)
+ - Make window 'resizable' to a predefined resolution (include fullscreen)
+- Create a Save Photo button
+
+### Future
+- Update from cv module to cv2 (requires NumPy)
+- Create a real time Effects module
+- Maybe Face Detection
