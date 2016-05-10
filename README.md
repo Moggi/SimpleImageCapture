@@ -28,7 +28,11 @@ See [main.py](../master/main.py)
  - Make window 'resizable' to a predefined resolution (include fullscreen)
 - Create a Save Photo button
 
-### Future
+#### Future
 - Update from cv module to cv2 (requires NumPy)
+- Maybe use Pillow
+- Maybe use gPhoto2
+
+#### Other App
 - Create a real time Effects module
 - Maybe Face Detection
