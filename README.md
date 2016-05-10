@@ -21,8 +21,7 @@ See [main.py](../master/main.py)
 
 
 ## ROADMAP
-- Update the WindowWidget class structure
-- In WindowWidget:
+- Update the WindowWidget class structure:
  - Remove the CameraWidget from it
  - Reorganize the widgets positions (layout)
  - Make window 'resizable' to a predefined resolution (include fullscreen)
@@ -30,9 +29,9 @@ See [main.py](../master/main.py)
 
 #### Future
 - Update from cv module to cv2 (requires NumPy)
-- Maybe use Pillow
-- Maybe use gPhoto2
+- Use gPhoto2
+ - List cameras
 
-#### Other App
+#### Maybe
 - Create a real time Effects module
-- Maybe Face Detection
+- Face Detection
