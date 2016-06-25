@@ -29,9 +29,4 @@ See [main.py](../master/main.py)
 
 #### Future
 - Update from cv module to cv2 (requires NumPy)
-- Use gPhoto2
- - List cameras
-
-#### Maybe
-- Create a real time Effects module
-- Face Detection
+- List cameras
